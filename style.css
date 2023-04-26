@@ -89,8 +89,9 @@
    display: flex;
    justify-content: center;
    bottom: 30px;
+   width: 100%;
  }
 
  .footer img {
-   width: 40%;
+   width: 150px;
  }
